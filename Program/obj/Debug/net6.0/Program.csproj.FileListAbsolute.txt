@@ -1,0 +1,16 @@
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\bin\Debug\net6.0\Program.exe
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\bin\Debug\net6.0\Program.deps.json
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\bin\Debug\net6.0\Program.dll
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\bin\Debug\net6.0\ref\Program.dll
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\bin\Debug\net6.0\Program.pdb
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\Program.GlobalUsings.g.cs
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\Program.dll
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\ref\Program.dll
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\Program.pdb
+C:\Users\Ljubov\Desktop\Final Verification Work\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
