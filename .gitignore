@@ -397,7 +397,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-Program\bin
-Program\bin\Debug\net6.0\ref\Program.dll
-Program\bin\Debug\net6.0\Program.dll
-C:\Users\Ljubov\Desktop\Final Verification Work\Program\bin\Debug\net6.0\Program.deps.json
+bin\Debug\net6.0
