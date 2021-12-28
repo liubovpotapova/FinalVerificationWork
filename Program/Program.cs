@@ -1,11 +1,11 @@
-﻿int[] GetArrayForEvenElementsSearch(int size, int leftBound, int rightBound)
+﻿int[] GetArray(int size, int leftBound, int rightBound)
 {
-    int[] arrayForEvenElementsSearch = new int[size];
+    int[] array = new int[size];
     for (int i = 0; i < size; i++)
     {
-        arrayForEvenElementsSearch[i] = new Random().Next(leftBound, rightBound);
+        array[i] = new Random().Next(leftBound, rightBound);
     }
-    return arrayForEvenElementsSearch;
+    return array;
 }
 
 void PrintArray(int[] arrayForPrint)
@@ -18,7 +18,7 @@ void PrintArray(int[] arrayForPrint)
     System.Console.WriteLine();
 }
 
-int SizeOfNewArray(int[] array)
+int CountOfEvenNumbers(int[] array)
 {
     int count = 0;
     for (int i = 0; i < array.Length; i++)
@@ -44,8 +44,8 @@ int[] GetEvenElementsArray(int[] arrayForEvenElementsSearch, int count)
     return arrayWithEvenElementsOnly;
 }
 
-int[] arrayForEven = GetArrayForEvenElementsSearch(10, -10, 10);
-PrintArray(arrayForEven);
-int countOfEven = SizeOfNewArray(arrayForEven);
-int[] arrayEven = GetEvenElementsArray(arrayForEven, countOfEven);
-PrintArray(arrayEven);
+int[] arrayForEvenElSearch = GetArray(10, -10, 10);
+PrintArray(arrayForEvenElSearch);
+int sizeForEvenNumbersArray = CountOfEvenNumbers(arrayForEvenElSearch);
+int[] arrayEvenOnly = GetEvenElementsArray(arrayForEvenElSearch, sizeForEvenNumbersArray);
+PrintArray(arrayEvenOnly);
