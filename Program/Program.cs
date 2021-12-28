@@ -1,4 +1,4 @@
-﻿int[] GetArray(int size, int leftBound, int rightBound)
+﻿int[] GetArray(int size, int leftBound, int rightBound) // созданние одномерного массива
 {
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
@@ -8,7 +8,7 @@
     return array;
 }
 
-void PrintArray(int[] arrayForPrint)
+void PrintArray(int[] arrayForPrint) // печать одномерного массива
 {
     int size = arrayForPrint.Length;
     for (int i = 0; i < size; i++)
@@ -18,7 +18,7 @@ void PrintArray(int[] arrayForPrint)
     System.Console.WriteLine();
 }
 
-int CountOfEvenNumbers(int[] array)
+int CountOfEvenNumbers(int[] array) // подсчет четных элементов в одномерном массиве
 {
     int count = 0;
     for (int i = 0; i < array.Length; i++)
@@ -28,7 +28,9 @@ int CountOfEvenNumbers(int[] array)
     return count;
 }
 
-int[] GetEvenElementsArray(int[] arrayForEvenElementsSearch, int count)
+int[] GetEvenElementsArray(int[] arrayForEvenElementsSearch, int count) 
+// создание нового одномерного массива B из четных элементов, 
+// где размер = количество четных элементов в массиве А
 {
     int size = arrayForEvenElementsSearch.Length;
     int [] arrayWithEvenElementsOnly = new int [count];
