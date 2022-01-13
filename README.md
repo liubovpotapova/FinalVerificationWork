@@ -67,6 +67,7 @@ __________________________________________________
 ### int[] GetEvenElementsArray
 
 
+![Блок-схема программы](FlowchartFinalVerificationWork.png)
 ![Блок-схема программы](FlowchartFinalVerificationWork(2.0).JPG)
 
 ```
